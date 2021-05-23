@@ -1,0 +1,32 @@
+footer.footer {
+  background: var(--red);
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  div{
+    display: flex;
+    flex-direction: column;
+
+    span.signature {
+      font-family: Lobster, sans-serif;
+      font-size: 1.5rem;
+    }
+  }
+
+  span.copyright {
+    font-size: 1.3rem;
+    font-weight: 700;
+
+    ul {
+      display: flex;
+
+      list-style: none;
+
+      li {
+        margin-right: 15px;
+      }
+    }
+  }
+}

@@ -1,0 +1,2428 @@
+{
+  "1121": [
+    {
+      "name": "Ponto final, terminal Padre Henrique Otte",
+      "location": [-22.901554, -43.207900]
+    },
+    {
+      "name": "Avenida Paulo de Frontin, 614",
+      "location": [-22.927277, -43.209590]
+    },
+    {
+      "name": "Rua Jardim Botânico, 176",
+      "location": [-22.960681, -43.207293]
+    },
+    {
+      "name": "Rua Jardim Botânico, 354-394",
+      "location": [-22.961145, -43.212464]
+    },
+    {
+      "name": "Hospital da Lagoa",
+      "location": [-22.961842, -43.215200]
+    },
+    {
+      "name": "Rua Jardim Botânico, 534",
+      "location": [-22.962169, -43.215603]
+    },
+    {
+      "name": "Rua Jardim Botânico, 666-674",
+      "location": [-22.964756, -43.218083]
+    },
+    {
+      "name": "Rua Jardim Botânico, 920-954",
+      "location": [-22.970108, -43.222574]
+    },
+    {
+      "name": "Avenida Rodrigo Otávio, 3200",
+      "location": [-22.973732, -43.225996]
+    },
+    {
+      "name": "Rua Marquês de São Vicente, 230",
+      "location": [-22.978086, -43.233442]
+    },
+    {
+      "name": "Rua Marquês de São Vicente, 300",
+      "location": [-22.979452, -43.234626]
+    },
+    {
+      "name": "Rua Marquês de São Vicente, ao 380",
+      "location": [-22.981537, -43.236754]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 36-40",
+      "location": [-22.983447, -43.241964]
+    },
+    {
+      "name": "Rua Alexandre Stockler próximo ao N/D",
+      "location": [-22.984329, -43.240792]
+    },
+    {
+      "name": "Ponto final. Rua São Vicente, 444",
+      "location": [-22.982418, -43.238196]
+    }
+  ],
+
+  "1122": [
+    {
+      "name": "Ponto final. Rua São Vicente, 444",
+      "location": [-22.982418, -43.238196]
+    },
+    {
+      "name": "Rua Marquês de São Vicente próximo ao 380-382",
+      "location": [-22.981431, -43.236457]
+    },
+    {
+      "name": "Rua Marquês de São Vicente próximo ao 300",
+      "location": [-22.979288, -43.234547]
+    },
+    {
+      "name": "Rua Marquês de São Vicente próximo ao 208-216",
+      "location": [-22.977708, -43.232878]
+    },
+    {
+      "name": "Rua Artur Araripe próximo ao 48",
+      "location": [-22.977387, -43.227196]
+    },
+    {
+      "name": "Avenida Visconde de Albuquerque, 1325",
+      "location": [-22.977197, -43.225430]
+    },
+    {
+      "name": "Avenida Bartolomeu Mitre, 1372-1458",
+      "location": [-22.975163, -43.225717]
+    },
+    {
+      "name": "Avenida Rodrigo Otavio próximo ao 1003",
+      "location": [-22.973496, -43.225438]
+    },
+    {
+      "name": "Rua Jardim Botânico próximo ao 772-918",
+      "location": [-22.967059, -43.219843]
+    },
+    {
+      "name": "Rua Jardim Botânico próximo ao 728",
+      "location": [-22.965923, -43.218942]
+    },
+    {
+      "name": "Rua Jardim Botânico próximo ao 680",
+      "location": [-22.964985, -43.218116]
+    },
+    {
+      "name": "Rua Jardim Botânico próximo ao 416",
+      "location": [-22.961359, -43.213149]
+    },
+    {
+      "name": "Rua Jardim Botânico próximo ao 296-328",
+      "location": [-22.961049, -43.210396]
+    },
+    {
+      "name": "Rua Jardim Botânico próximo ao 176",
+      "location": [-22.960682, -43.207251]
+    },
+    {
+      "name": "Rua Jardim Botânico próximo ao 01-65",
+      "location": [-22.960396, -43.204607]
+    },
+    {
+      "name": "BRS 1,2,3,I - Rua Humaitá próximo ao 251-269",
+      "location": [-22.959644, -43.201322]
+    },
+    {
+      "name": "BRS 1,2 - Rua Humaitá próximo ao 201-229",
+      "location": [-22.958978, -43.200029]
+    },
+    {
+      "name": "Humaitá",
+      "location": [-22.959136, -43.200850]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 763",
+      "location": [-22.931484, -43.208860]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 699",
+      "location": [-22.929562, -43.209011]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 631",
+      "location": [-22.927798, -43.209317]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 497",
+      "location": [-22.924074, -43.209533]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 451",
+      "location": [-22.922781, -43.209637]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 321",
+      "location": [-22.919459, -43.209827]
+    },
+    {
+      "name": "BRS 1A,2A,4 - Rua Hadock Lobo próximo ao 86",
+      "location": [-22.916361, -43.209247]
+    },
+    {
+      "name": "BRS 1B,2B,5,6 - Rua Hadock Lobo próximo ao 20-24",
+      "location": [-22.915380, -43.207811]
+    },
+    {
+      "name": "BRS 1,2,4 - Rua Estácio de Sá próximo ao 82-274",
+      "location": [-22.914372, -43.205414]
+    },
+    {
+      "name": "BRS 1,2,4 - Rua Frei Caneca próximo ao 422",
+      "location": [-22.913996, -43.200573]
+    },
+    {
+      "name": "BRS 1,2,3,4 - Rua Marquês de Sapucaí",
+      "location": [-22.914208, -43.196185]
+    },
+    {
+      "name": "BRS 1,2,3,4 - Avenida Henrique Valadares próximo ao 100",
+      "location": [-22.912347, -43.189264]
+    },
+    {
+      "name": "Rua Carlos de Carvalho próximo ao 34",
+      "location": [-22.910810, -43.188247]
+    },
+    {
+      "name": "Praça da República próximo ao 111-113",
+      "location": [-22.907973, -43.189694]
+    },
+    {
+      "name": "BRS I - Avenida Presidente Vargas próximo ao 1944-2056",
+      "location": [-22.905522, -43.193281]
+    },
+    {
+      "name": "BRS 1,2,3B - Avenida Presidente Vargas próximo ao 2610-2698",
+      "location": [-22.907919, -43.200870]
+    },
+    {
+      "name": "BRS 1,3,5 - Avenida Presidente Vargas próximo ao 3166-3220",
+      "location": [-22.909788, -43.206588]
+    },
+    {
+      "name": "Avenida Francisco Bicalho próximo ao 937-1127",
+      "location": [-22.907244, -43.209492]
+    },
+    {
+      "name": "Ponto final, terminal Padre Henrique Otte",
+      "location": [-22.901554, -43.207900]
+    }
+  ],
+
+  "1331": [
+    {
+      "name": "Largo do Machado próximo ao 11",
+      "location": [-22.931020, -43.178372]
+    },
+    {
+      "name": "Rua das Laranjeiras próximo ao 42",
+      "location": [-22.931837, -43.180827]
+    },
+    {
+      "name": "Rua das Laranjeiras 130",
+      "location": [-22.932634, -43.183263]
+    },
+    {
+      "name": "Rua das Laranjeiras 218",
+      "location": [-22.933704, -43.186326]
+    },
+    {
+      "name": "Rua das Laranjeiras 343",
+      "location": [-22.935615, -43.189406]
+    },
+    {
+      "name": "Rua Alice próximo ao 88",
+      "location": [-22.935917, -43.190838]
+    },
+    {
+      "name": "Rua Alice próximo ao 550",
+      "location": [-22.935486, -43.193499]
+    },
+    {
+      "name": "Rua Alice próximo ao 769-897",
+      "location": [-22.934835, -43.191792]
+    },
+    {
+      "name": "Rua Alice próximo ao 1118",
+      "location": [-22.934466, -43.192411]
+    },
+    {
+      "name": "Rua Alice próximo ao 2030-2040",
+      "location": [-22.936474, -43.198892]
+    },
+    {
+      "name": "Rua Barão de Petrópolis próximo ao 730-782",
+      "location": [-22.931948, -43.201355]
+    },
+    {
+      "name": "Rua Barão de Petrópolis próximo ao 636-678",
+      "location": [-22.930007, -43.201871]
+    },
+    {
+      "name": "Rua Barão de Petrópolis próximo ao 381",
+      "location": [-22.928254, -43.203518]
+    },
+    {
+      "name": "Rua Barão de Petrópolis próximo ao 41",
+      "location": [-22.925570, -43.205161]
+    },
+    {
+      "name": "Rua Campos da Paz próximo ao 131",
+      "location": [-22.923676, -43.206437]
+    },
+    {
+      "name": "Rua Campos da Paz próximo ao 63-69",
+      "location": [-22.923458, -43.207863]
+    },
+    {
+      "name": "Rua Aristídes Lôbo próximo ao 160-170",
+      "location": [-22.921770, -43.208863]
+    },
+    {
+      "name": "Rua Aristídes Lôbo próximo ao 104",
+      "location": [-22.919923, -43.208609]
+    },
+    {
+      "name": "Rua Aristídes Lôbo próximo ao 38-50",
+      "location": [-22.917874, -43.209239]
+    },
+    {
+      "name": "BRS 1B,2B,5,6 - Rua Hadock Lobo próximo ao 20-24",
+      "location": [-22.915434, -43.207865]
+    },
+    {
+      "name": "Rua Ulysses Guimarães próximo ao 116-234",
+      "location": [-22.913020, -43.207198]
+    },
+    {
+      "name": "Avenida Francisco Bicalho próximo ao 937-1127",
+      "location": [-22.907329, -43.209481]
+    },
+    {
+      "name": "Ponto final, terminal Padre Henrique Otte",
+      "location": [-22.901554, -43.207900]
+    }
+  ],
+
+  "1332": [
+    {
+      "name": "Ponto final, terminal Padre Henrique Otte",
+      "location": [-22.901554, -43.207900]
+    },
+    {
+      "name": "Rua Figueira de Melo próximo ao 258",
+      "location": [-22.904223, -43.214986]
+    },
+    {
+      "name": "Avenida Pedro II próximo ao 170-194",
+      "location": [-22.903426, -43.214530]
+    },
+    {
+      "name": "Avenida Pedro II próximo ao 41-79",
+      "location": [-22.902378, -43.211895]
+    },
+    {
+      "name": "Avenida Francisco Bicalho próximo ao 504-686",
+      "location": [-22.903440, -43.210419]
+    },
+    {
+      "name": "Avenida Francisco Bicalho próximo ao 2338-2580",
+      "location": [-22.908455, -43.209948]
+    },
+    {
+      "name": "BRS 1,2,3,4,5,I - Avenida Presidente Vargas próximo ao 371",
+      "location": [-22.910074, -43.205484]
+    },
+    {
+      "name": "Rua Carmo Neto próximo ao 63-91",
+      "location": [-22.909506, -43.200286]
+    },
+    {
+      "name": "Rua Carmo Neto próximo ao 197",
+      "location": [-22.911426, -43.199507]
+    },
+    {
+      "name": "BRS 2 - Avenida Salvador de Sá próximo ao 192",
+      "location": [-22.912780, -43.201664]
+    },
+    {
+      "name": "Rua Ulysses Guimarães próximo ao 116-234",
+      "location": [-22.913042, -43.207182]
+    },
+    {
+      "name": "BRS 1,4,6 - Rua João Paulo I próximo ao 27-329",
+      "location": [-22.914993, -43.208378]
+    },
+    {
+      "name": "BRS 1,4,5,6,I - Rua João Paulo I próximo ao 353-455",
+      "location": [-22.915834, -43.211013]
+    },
+    {
+      "name": "Rua do Matoso próximo ao 175-181",
+      "location": [-22.916808, -43.212204]
+    },
+    {
+      "name": "Rua do Matoso próximo ao 260",
+      "location": [-22.919608, -43.211838]
+    },
+    {
+      "name": "Rua do Matoso próximo ao 270",
+      "location": [-22.919669, -43.211839]
+    },
+    {
+      "name": "Rua Barão de Itapagipe próximo ao 160",
+      "location": [-22.920653, -43.212721]
+    },
+    {
+      "name": "Rua do Bispo próximo ao 212-216",
+      "location": [-22.922696, -43.213983]
+    },
+    {
+      "name": "Rua do Bispo próximo ao 80-82",
+      "location": [-22.924768, -43.211743]
+    },
+    {
+      "name": "Rua Estrela próximo ao 78",
+      "location": [-22.924928, -43.208348]
+    },
+    {
+      "name": "Rua Barão de Petrópolis próximo ao 109-117",
+      "location": [-22.926174, -43.204871]
+    },
+    {
+      "name": "Rua Barão de Petrópolis próximo ao 381",
+      "location": [-22.928320, -43.203548]
+    },
+    {
+      "name": "Rua Barão de Petrópolis próximo ao 601-633",
+      "location": [-22.930594, -43.201921]
+    },
+    {
+      "name": "Rua Barão de Petrópolis próximo ao 730-782",
+      "location": [-22.931963, -43.201420]
+    },
+    {
+      "name": "Rua Professor Olinto de Oliveira próximo ao 531",
+      "location": [-22.936160, -43.199358]
+    },
+    {
+      "name": "Rua Alice próximo ao 2030",
+      "location": [-22.936532, -43.198777]
+    },
+    {
+      "name": "Rua Alice próximo ao 1658",
+      "location": [-22.936684, -43.195756]
+    },
+    {
+      "name": "Rua Alice próximo ao 1356",
+      "location": [-22.935389, -43.194559]
+    },
+    {
+      "name": "Rua Alice próximo ao 1090",
+      "location": [-22.934646, -43.192067]
+    },
+    {
+      "name": "Rua Mario Portela próximo ao 120-128",
+      "location": [-22.936372, -43.191490]
+    },
+    {
+      "name": "Rua das Laranjeiras 275",
+      "location": [-22.934772, -43.187853]
+    },
+    {
+      "name": "Rua Conde de Baependi 84",
+      "location": [-22.933201, -43.180510]
+    },
+    {
+      "name": "Ponto final, Largo do Machado próximo ao 11",
+      "location": [-22.931023, -43.178369]
+    }
+  ],
+
+  "2011": [
+    {
+      "name": "Ponto final, Santa Alexandrina",
+      "location": [-22.934802, -43.209920]
+    },
+    {
+      "name": "Rua Santa Alexandrina próximo ao 1012",
+      "location": [-22.933558, -43.209243]
+    },
+    {
+      "name": "Rua Santa Alexandrina próximo ao 825-845",
+      "location": [-22.931653, -43.208582]
+    },
+    {
+      "name": "Rua Santa Alexandrina próximo ao 558",
+      "location": [-22.929633, -43.208463]
+    },
+    {
+      "name": "Rua Santa Alexandrina próximo ao 434-446",
+      "location": [-22.928684, -43.208113]
+    },
+    {
+      "name": "Rua Santa Alexandrina próximo ao 111",
+      "location": [-22.926030, -43.208463]
+    },
+    {
+      "name": "Rua Estrela próximo ao 78",
+      "location": [-22.924924, -43.208348]
+    },
+    {
+      "name": "Rua Estrela próximo ao 16",
+      "location": [-22.925268, -43.206030]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1553-1571",
+      "location": [-22.925004, -43.204803]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1344",
+      "location": [-22.925102, -43.202996]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1142",
+      "location": [-22.925296, -43.201210]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 992",
+      "location": [-22.925135, -43.199643]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 734",
+      "location": [-22.923395, -43.197786]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 574",
+      "location": [-22.922295, -43.197274]
+    },
+    {
+      "name": "Rua Doutor Agra próximo ao 90",
+      "location": [-22.920513, -43.195940]
+    },
+    {
+      "name": "Rua Gilda de Abreu próximo ao 313-363",
+      "location": [-22.919804, -43.194521]
+    },
+    {
+      "name": "Rua Eleone de Almeida próximo ao 30",
+      "location": [-22.917423, -43.194044]
+    },
+    {
+      "name": "Rua dos Coqueiros próximo ao 867-941",
+      "location": [-22.916487, -43.194468]
+    },
+    {
+      "name": "Rua de Catumbi próximo ao 89",
+      "location": [-22.916639, -43.195229]
+    },
+    {
+      "name": "Rua de Catumbi próximo ao 25-27",
+      "location": [-22.914981, -43.195923]
+    },
+    {
+      "name": "BRS 1,2,3,4 - Avenida Henrique Valadares próximo ao 100",
+      "location": [-22.912329, -43.189251]
+    },
+    {
+      "name": "Avenida República do Paraguai próximo ao 252-258",
+      "location": [-22.909366, -43.180319]
+    },
+    {
+      "name": "Ponto final, BRS 1,2 - Avenida Treze de Maio próximo ao 13",
+      "location": [-22.908525, -43.178025]
+    }
+  ],
+
+  "2012": [
+    {
+      "name": "Ponto final, BRS 1,2 - Avenida Treze de Maio próximo ao 13",
+      "location": [-22.908525, -43.178025]
+    },
+    {
+      "name": "BRS 1,2,4,5 - Avenida Almirante Barroso próximo ao 136",
+      "location": [-22.907308, -43.173992]
+    },
+    {
+      "name": "Rua Araujo Porto Alegre, 31-59",
+      "location": [-22.908482, -43.173622]
+    },
+    {
+      "name": "Rua Araújo Pôrto Alegre próximo ao 61-71",
+      "location": [-22.908771, -43.174532]
+    },
+    {
+      "name": "Rua Araújo Pôrto Alegre próximo ao 74-80",
+      "location": [-22.909165, -43.175770]
+    },
+    {
+      "name": "Rua Evaristo da Veiga próximo ao 78",
+      "location": [-22.911841, -43.178695]
+    },
+    {
+      "name": "Avenida República do Paraguai, 229",
+      "location": [-22.908760, -43.180301]
+    },
+    {
+      "name": "BRS 1,4 - Rua Visconde do Rio Branco próximo ao 14-22",
+      "location": [-22.907265, -43.182715]
+    },
+    {
+      "name": "BRS 1,2 - Praça da República próximo ao 18-44",
+      "location": [-22.908406, -43.186771]
+    },
+    {
+      "name": "BRS 1,2,3,4 - Rua Frei Caneca próximo ao 60",
+      "location": [-22.909807, -43.191072]
+    },
+    {
+      "name": "BRS 1,4,I - Avenida Salvador de Sá próximo ao 110",
+      "location": [-22.912214, -43.198693]
+    },
+    {
+      "name": "Rua Heitor Carrilho próximo ao 132",
+      "location": [-22.913878, -43.199480]
+    },
+    {
+      "name": "Rua Carolina Reidner próximo ao 65",
+      "location": [-22.915995, -43.196482]
+    },
+    {
+      "name": "Rua de Catumbi próximo ao 112-114",
+      "location": [-22.917378, -43.195023]
+    },
+    {
+      "name": "Rua Itapiru, 155",
+      "location": [-22.919051, -43.195715]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 120",
+      "location": [-22.920254, -43.196603]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 574",
+      "location": [-22.922275, -43.197405]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 814-820",
+      "location": [-22.924181, -43.198487]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1142",
+      "location": [-22.925169, -43.201249]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1344",
+      "location": [-22.924988, -43.203020]
+    },
+    {
+      "name": "Rua Campos da Paz próximo ao 209",
+      "location": [-22.923913, -43.204531]
+    },
+    {
+      "name": "Rua Campos da Paz próximo ao 131",
+      "location": [-22.923655, -43.206425]
+    },
+    {
+      "name": "Rua Campos da Paz próximo ao 63-69",
+      "location": [-22.923443, -43.207881]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 451",
+      "location": [-22.922874, -43.209599]
+    },
+    {
+      "name": "Rua Sampaio Viana próximo ao 35",
+      "location": [-22.923737, -43.212299]
+    },
+    {
+      "name": "Rua do Bispo próximo ao 80-82",
+      "location": [-22.924790, -43.211752]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 568-600",
+      "location": [-22.925913, -43.209718]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 614",
+      "location": [-22.927478, -43.209618]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 712",
+      "location": [-22.930160, -43.209107]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 848",
+      "location": [-22.931582, -43.209215]
+    },
+    {
+      "name": "Ponto final, Santa Alexandrina",
+      "location": [-22.934802, -43.209920]
+    }
+  ],
+
+  "2021": [
+    {
+      "name": "Ponto final, Rua Sampaio Viana próximo ao 35",
+      "location": [-22.923768, -43.212236]
+    },
+    {
+      "name": "Rua do Bispo próximo ao 80-82",
+      "location": [-22.924774, -43.211746]
+    },
+    {
+      "name": "Rua Estrela próximo ao 78",
+      "location": [-22.924929, -43.208351]
+    },
+    {
+      "name": "Rua Estrela próximo ao 16",
+      "location": [-22.925253, -43.206030]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1553-1571",
+      "location": [-22.924984, -43.204815]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1344",
+      "location": [-22.925106, -43.203001]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1142",
+      "location": [-22.925279, -43.201275]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 992",
+      "location": [-22.925125, -43.199647]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 734",
+      "location": [-22.923401, -43.197799]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 574",
+      "location": [-22.922228, -43.197242]
+    },
+    {
+      "name": "Rua Doutor Agra próximo ao 90",
+      "location": [-22.920523, -43.195937]
+    },
+    {
+      "name": "Rua Gilda de Abreu próximo ao 313-363",
+      "location": [-22.919796, -43.194529]
+    },
+    {
+      "name": "Rua Eleone de Almeida próximo ao 30",
+      "location": [-22.917418, -43.194049]
+    },
+    {
+      "name": "Rua dos Coqueiros próximo ao 867-941",
+      "location": [-22.916490, -43.194461]
+    },
+    {
+      "name": "Rua de Catumbi próximo ao 89",
+      "location": [-22.916639, -43.195210]
+    },
+    {
+      "name": "Rua de Catumbi próximo ao 25-27",
+      "location": [-22.914975, -43.195924]
+    },
+    {
+      "name": "Rua Benedito Hipólito próximo ao 66-126",
+      "location": [-22.907959, -43.195832]
+    },
+    {
+      "name": "BRS 1,2,I,5 - Avenida Presidente Vargas próximo ao 50",
+      "location": [-22.903477, -43.185046]
+    },
+    {
+      "name": "Avenida Passos, 65",
+      "location": [-22.904351, -43.183350]
+    },
+    {
+      "name": "Rua da Carioca próximo ao 40",
+      "location": [-22.906568, -43.180057]
+    },
+    {
+      "name": "Avenida Nilo Peçanha próximo ao 376-482",
+      "location": [-22.906432, -43.177764]
+    },
+    {
+      "name": "BRS 1,2,4,5 - Avenida Almirante Barroso próximo ao 136",
+      "location": [-22.907296, -43.173987]
+    },
+    {
+      "name": "Avenida General Justo próximo ao 399-435",
+      "location": [-22.907375, -43.168695]
+    },
+    {
+      "name": "Avenida General Justo próximo ao 13",
+      "location": [-22.909894, -43.168409]
+    },
+    {
+      "name": "Ponto final, Rua Santa Luzia próximo ao 206-336",
+      "location": [-22.908169, -43.170898]
+    }
+  ],
+
+  "2022": [
+    {
+      "name": "Ponto final, Rua Santa Luzia próximo ao 206-336",
+      "location": [-22.908169, -43.170898]
+    },
+    {
+      "name": "Avenida Franklin Rooselvelt próximo ao 181",
+      "location": [-22.909533, -43.170686]
+    },
+    {
+      "name": "BRS 1,2,3 - Avenida Presidente Antônio Carlos próximo ao 143-207",
+      "location": [-22.908283, -43.172367]
+    },
+    {
+      "name": "BRS 4 - Avenida Presidente Antônio Carlos próximo ao 114",
+      "location": [-22.905395, -43.173613]
+    },
+    {
+      "name": "BRS 1,2,3 - Rua Primeiro de Março próximo ao 17",
+      "location": [-22.903714, -43.174786]
+    },
+    {
+      "name": "BRS 1,2,3 - Rua Primeiro de Março próximo ao 20",
+      "location": [-22.902630, -43.175593]
+    },
+    {
+      "name": "BRS 1,3 - Avenida Presidente Vargas próximo ao 218-258",
+      "location": [-22.900486, -43.177893]
+    },
+    {
+      "name": "BRS 1,2,3 - Praça Duque de Caxias",
+      "location": [-22.903947, -43.188310]
+    },
+    {
+      "name": "Praça Cristiano Otoni próximo ao 279",
+      "location": [-22.903489, -43.190619]
+    },
+    {
+      "name": "BRS 1,4 - Rua Visconde do Rio Branco próximo ao 14-22",
+      "location": [-22.907265, -43.182715]
+    },
+    {
+      "name": "BRS 1,2 - Praça da República próximo ao 18-44",
+      "location": [-22.908411, -43.186765]
+    },
+    {
+      "name": "BRS 1,2,3,4 - Rua Frei Caneca próximo ao 60",
+      "location": [-22.909806, -43.191065]
+    },
+    {
+      "name": "Rua Frei Caneca",
+      "location": [-22.910783, -43.192733]
+    },
+    {
+      "name": "BRS 1,4,I - Avenida Salvador de Sá próximo ao 110",
+      "location": [-22.912201, -43.198628]
+    },
+    {
+      "name": "Rua Heitor Carrilho próximo ao 132",
+      "location": [-22.913873, -43.199489]
+    },
+    {
+      "name": "Rua Carolina Reidner próximo ao 65",
+      "location": [-22.915988, -43.196495]
+    },
+    {
+      "name": "Rua do Chichorro próximo ao 6",
+      "location": [-22.917045, -43.195438]
+    },
+    {
+      "name": "Rua de Catumbi próximo ao 112-114",
+      "location": [-22.917405, -43.195002]
+    },
+    {
+      "name": "Rua Itapiru, 155",
+      "location": [-22.919090, -43.195730]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 120",
+      "location": [-22.920253, -43.196604]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 574",
+      "location": [-22.922275, -43.197373]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 814-820",
+      "location": [-22.924152, -43.198469]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1142",
+      "location": [-22.925164, -43.201230]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1344",
+      "location": [-22.924996, -43.203014]
+    },
+    {
+      "name": "Rua Campos da Paz próximo ao 209",
+      "location": [-22.923932, -43.204506]
+    },
+    {
+      "name": "Rua Campos da Paz próximo ao 131",
+      "location": [-22.923656, -43.206435]
+    },
+    {
+      "name": "Rua Campos da Paz próximo ao 63-69",
+      "location": [-22.923457, -43.207862]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 451",
+      "location": [-22.922861, -43.209608]
+    },
+    {
+      "name": "Rua Sampaio Viana próximo ao 201",
+      "location": [-22.922632, -43.211122]
+    },
+    {
+      "name": "Ponto final, Rua Sampaio Viana próximo ao 35",
+      "location": [-22.923768, -43.212236]
+    }
+
+  ],
+
+  "4151": [
+    {
+      "name": "Rua Santa Carolina, 24",
+      "location": [-22.943646, -43.254930]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 1252",
+      "location": [-22.943924, -43.254208]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 1236",
+      "location": [-22.943272, -43.253870]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 1168",
+      "location": [-22.942279, -43.253103]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 1084",
+      "location": [-22.940840, -43.250465]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 1037",
+      "location": [-22.940015, -43.249140]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 928",
+      "location": [-22.938128, -43.246696]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 862",
+      "location": [-22.936308, -43.244794]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 816-824",
+      "location": [-22.935664, -43.244048]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 746",
+      "location": [-22.933790, -43.242128]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 685",
+      "location": [-22.932338, -43.240616]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 599",
+      "location": [-22.931125, -43.238349]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 515-519",
+      "location": [-22.928393, -43.236424]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 451",
+      "location": [-22.927045, -43.235593]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 377",
+      "location": [-22.924967, -43.233656]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 345-367",
+      "location": [-22.924421, -43.232900]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 273",
+      "location": [-22.923576, -43.229641]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 186",
+      "location": [-22.924302, -43.227782]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 138",
+      "location": [-22.924932, -43.226235]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 86",
+      "location": [-22.924211, -43.223814]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 28",
+      "location": [-22.922707, -43.222145]
+    },
+    {
+      "name": "Rua Haddock Lobo, 416",
+      "location": [-22.921455, -43.219935]
+    },
+    {
+      "name": "Rua Haddock Lobo, 350",
+      "location": [-22.920843, -43.217648]
+    },
+    {
+      "name": "Rua Haddock Lobo, 282-290",
+      "location": [-22.919793, -43.215156]
+    },
+    {
+      "name": "Rua Haddock Lobo, 180",
+      "location": [-22.918204, -43.212195]
+    },
+    {
+      "name": "Rua Haddock Lobo, 128",
+      "location": [-22.917463, -43.211055]
+    },
+    {
+      "name": "Rua Haddock Lobo, 20-24",
+      "location": [-22.915426, -43.207854]
+    },
+    {
+      "name": "Rua Estácio de Sá, 82-274",
+      "location": [-22.914324, -43.205354]
+    },
+    {
+      "name": "Rua Afonso Cavalcanti, 24-54",
+      "location": [-22.910274, -43.203657]
+    },
+    {
+      "name": "Rua Afonso Cavalcanti, 232-262",
+      "location": [-22.909440, -43.200896]
+    },
+    {
+      "name": "Rua Benedito Hipólito, 128-162",
+      "location": [-22.908521, -43.197993]
+    },
+    {
+      "name": "Rua Benedito Hipólito, 66-126",
+      "location": [-22.907925, -43.195802]
+    },
+    {
+      "name": "Av. Presidente Vargas, 268-567",
+      "location": [-22.905436, -43.191663]
+    },
+    {
+      "name": "Av. Presidente Vargas, em frente ao Campo de Santana",
+      "location": [-22.904507, -43.188781]
+    },
+    {
+      "name": "Av. Presidente Vargas, 50",
+      "location": [-22.903474, -43.185056]
+    },
+    {
+      "name": "Av. Passos, 65",
+      "location": [-22.904304, -43.183348]
+    },
+    {
+      "name": "Rua da carioca, 40",
+      "location": [-22.906596, -43.180039]
+    },
+    {
+      "name": "Av. Nilo Peçanha, 376-482",
+      "location": [-22.906423, -43.177775]
+    },
+    {
+      "name": "Av. Graça Aranha, 145",
+      "location": [-22.908423, -43.174594]
+    },
+    {
+      "name": "Av. Graça Aranha, 58-76",
+      "location": [-22.909381, -43.174240]
+    },
+    {
+      "name": "Av. Infante Dom Henrique, 880",
+      "location": [-22.942833, -43.176822]
+    },
+    {
+      "name": "Av. Infante Dom Henrique, 426-1102",
+      "location": [-22.943336, -43.180581]
+    },
+    {
+      "name": "Av. das Nações Unidas",
+      "location": [-22.945790, -43.181840]
+    },
+    {
+      "name": "Av. das Nações Unidas, 212-268",
+      "location": [-22.949555, -43.180612]
+    },
+    {
+      "name": "Av. Lauro Sodré, 193-267",
+      "location": [-22.954956, -43.178290]
+    },
+    {
+      "name": "Rua Barata Ribeiro, 96",
+      "location": [-22.963864, -43.178546]
+    },
+    {
+      "name": "Rua Tonelero, 56-68",
+      "location": [-22.965024, -43.182001]
+    },
+    {
+      "name": "Rua Tonelero, 146-154",
+      "location": [-22.966059, -43.184133]
+    },
+    {
+      "name": "Rua Tonelero, 236-240",
+      "location": [-22.967617, -43.187221]
+    },
+    {
+      "name": "Rua Tonelero, 316-320",
+      "location": [-22.968271, -43.188398]
+    },
+    {
+      "name": "Rua Tonelero, 295",
+      "location": [-22.969311, -43.189990]
+    },
+    {
+      "name": "Rua Pompeu Loureiro, 28-30",
+      "location": [-22.972667, -43.192163]
+    },
+    {
+      "name": "Rua Pompeu Loureiro, 126",
+      "location": [-22.975093, -43.193350]
+    },
+    {
+      "name": "Av. Henrique Dodsworth, 83",
+      "location": [-22.976843, -43.196289]
+    },
+    {
+      "name": "Avenida Epitácio Pessoa, 1782",
+      "location": [-22.979285, -43.202473]
+    },
+    {
+      "name": "Avenida Epitácio Pessoa, 1354",
+      "location": [-22.980453, -43.206724]
+    },
+    {
+      "name": "Avenida Epitácio Pessoa, 3400",
+      "location": [-22.980391, -43.210895]
+    },
+    {
+      "name": "Avenida Epitácio Pessoa, 756",
+      "location": [-22.980315, -43.212166]
+    },
+    {
+      "name": "Avenida Borges de Medeiros, 661-667",
+      "location": [-22.981446, -43.215020]
+    },
+    {
+      "name": "Avenida General San Martin, 340",
+      "location": [-22.984859, -43.219430]
+    },
+    {
+      "name": "Avenida General San Martin, 570-580",
+      "location": [-22.985212, -43.221957]
+    },
+    {
+      "name": "PONTO FINAL Praça Anterro de Quental",
+      "location": [-22.985530, -43.223316]
+    }
+  ],
+
+  "4152": [
+    {
+      "name": "Ponto final, Anterro de Quental",
+      "location": [-22.985512, -43.223352]
+    },
+    {
+      "name": "BRS 2 - Avenida Ataulfo de Paiva próximo ao 500",
+      "location": [-22.984019, -43.221008]
+    },
+    {
+      "name": "BRS 1,3 - Avenida Afrânio de Melo Franco próximo ao 85",
+      "location": [-22.983753, -43.218244]
+    },
+    {
+      "name": "BRS 2 - Jardim de Alah",
+      "location": [-22.983746, -43.216253]
+    },
+    {
+      "name": "BRS 2 - Rua Visconde de Pirajá próximo ao 504",
+      "location": [-22.983990, -43.210297]
+    },
+    {
+      "name": "BRS 2 - Rua Visconde de Pirajá próximo ao 310-318",
+      "location": [-22.984322, -43.204148]
+    },
+    {
+      "name": "BRS 1,3 - Rua Visconde de Pirajá próximo ao 228",
+      "location": [-22.984442, -43.201589]
+    },
+    {
+      "name": "BRS 2 - Rua Visconde de Pirajá próximo ao 168-174",
+      "location": [-22.984565, -43.199765]
+    },
+    {
+      "name": "BRS 2 - Rua Gomes Carneiro próximo ao 130-134",
+      "location": [-22.984316, -43.194576]
+    },
+    {
+      "name": "BRS 1,3 - Rua Francisco Sá próximo ao 96-100",
+      "location": [-22.983649, -43.193451]
+    },
+    {
+      "name": "BRS 2 - Rua Francisco Sá próximo ao 50-80",
+      "location": [-22.983392, -43.192475]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 1144-1146",
+      "location": [-22.980405, -43.191005]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 891",
+      "location": [-22.975366, -43.189678]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 637-643",
+      "location": [-22.971125, -43.186765]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 529-543",
+      "location": [-22.968705, -43.183960]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 386-406",
+      "location": [-22.967217, -43.180987]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 252-B",
+      "location": [-22.965921, -43.178075]
+    },
+    {
+      "name": "BRS 2 - Avenida Princesa Isabel próximo ao 386",
+      "location": [-22.962021, -43.174912]
+    },
+    {
+      "name": "BRS 2 - Avenida Venceslau Braz próximo ao 119",
+      "location": [-22.956926, -43.177393]
+    },
+    {
+      "name": "Avenida Venceslau Braz próximo ao 101-149",
+      "location": [-22.952724, -43.176025]
+    },
+    {
+      "name": "Avenida das Nações Unidas próximo ao N/D",
+      "location": [-22.948125, -43.181175]
+    },
+    {
+      "name": "Avenida das Nações Unidas próximo ao 210",
+      "location": [-22.943862, -43.180731]
+    },
+    {
+      "name": "BRS 1,2,3 - Avenida Beira Mar próximo ao 3514-3530",
+      "location": [-22.910811, -43.171335]
+    },
+    {
+      "name": "BRS 1,2,3 - Avenida Presidente Antônio Carlos próximo ao 143-207",
+      "location": [-22.908313, -43.172349]
+    },
+    {
+      "name": "BRS 4 - Avenida Presidente Antônio Carlos próximo ao 114",
+      "location": [-22.905388, -43.173602]
+    },
+    {
+      "name": "BRS 1,2,3 - Rua Primeiro de Março próximo ao 17",
+      "location": [-22.902639, -43.175597]
+    },
+    {
+      "name": "BRS 2,4 - Avenida Presidente Vargas próximo ao 218-258",
+      "location": [-22.900698, -43.178437]
+    },
+    {
+      "name": "BRS 2 - Avenida Presidente Vargas próximo ao 450",
+      "location": [-22.902474, -43.183303]
+    },
+    {
+      "name": "BRS 2 - Avenida Presidente Vargas próximo ao 455",
+      "location": [-22.902449, -43.183317]
+    },
+    {
+      "name": "BRS 2 - Avenida Presidente Vargas próximo ao 1146",
+      "location": [-22.903579, -43.186786]
+    },
+    {
+      "name": "BRS 2,3 - Avenida Presidente Vargas próximo ao 10",
+      "location": [-22.904547, -43.189685]
+    },
+    {
+      "name": "BRS 1,2,3 - Avenida Presidente Vargas próximo ao 799",
+      "location": [-22.906049, -43.194330]
+    },
+    {
+      "name": "BRS 1,2,3 - Avenida Presidente Vargas próximo ao 292",
+      "location": [-22.908066, -43.200881]
+    },
+    {
+      "name": "BRS 1,2,3 - Avenida Presidente Vargas próximo ao 74",
+      "location": [-22.909858, -43.206439]
+    },
+    {
+      "name": "Avenida Paulo de Frontin próximo ao 50-114",
+      "location": [-22.913640, -43.210245]
+    },
+    {
+      "name": "BRS 1,4,5,6,I - Rua João Paulo I próximo ao 353-455",
+      "location": [-22.915831, -43.211009]
+    },
+    {
+      "name": "BRS 2 - Rua João Paulo I próximo ao 1746",
+      "location": [-22.916108, -43.212026]
+    },
+    {
+      "name": "BRS 2 - Rua Doutor Satamini próximo ao 239-245",
+      "location": [-22.917043, -43.214403]
+    },
+    {
+      "name": "BRS 2 - Rua Doutor Satamini próximo ao 153",
+      "location": [-22.918493, -43.218081]
+    },
+    {
+      "name": "BRS 2,5,6,I - Rua Doutor Satamini próximo ao 89",
+      "location": [-22.919407, -43.220138]
+    },
+    {
+      "name": "BRS 2 - Avenida Heitor Beltrão próximo ao 58-62",
+      "location": [-22.920791, -43.224251]
+    },
+    {
+      "name": "BRS 2 - Avenida Heitor Beltrão próximo ao 80-100",
+      "location": [-22.921654, -43.228500]
+    },
+    {
+      "name": "BRS 2,7 - Rua Conde de Bonfim próximo ao 310",
+      "location": [-22.923425, -43.231835]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 452",
+      "location": [-22.925965, -43.235126]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 494",
+      "location": [-22.927578, -43.236163]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 522",
+      "location": [-22.928406, -43.236655]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 638",
+      "location": [-22.931444, -43.239119]
+    },
+    {
+      "name": "Rua Uruguai próximo ao 413",
+      "location": [-22.932258, -43.240850]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 758",
+      "location": [-22.933911, -43.242398]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 796",
+      "location": [-22.934950, -43.243439]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 832",
+      "location": [-22.935853, -43.244451]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 862",
+      "location": [-22.936482, -43.245141]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 944",
+      "location": [-22.938305, -43.247050]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 984",
+      "location": [-22.939031, -43.247867]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1062",
+      "location": [-22.940275, -43.249674]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1086",
+      "location": [-22.940746, -43.250544]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1116",
+      "location": [-22.941077, -43.251687]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1168",
+      "location": [-22.941965, -43.253029]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1252-1256",
+      "location": [-22.943915, -43.254195]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1326-1328",
+      "location": [-22.946031, -43.255350]
+    },
+    {
+      "name": "PONTO FINAL, Terminal da Usina próximo ao 30",
+      "location": [-22.946288, -43.256893]
+    }
+  ],
+
+  "4261": [
+    {
+      "name": "PONTO FINAL, Terminal da Usina próximo ao 30",
+      "location": [-22.946288, -43.256893]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 1252",
+      "location": [-22.943924, -43.254208]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 1236",
+      "location": [-22.943272, -43.253870]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 1168",
+      "location": [-22.942279, -43.253103]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 1084",
+      "location": [-22.940840, -43.250465]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 1037",
+      "location": [-22.940015, -43.249140]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 928",
+      "location": [-22.938128, -43.246696]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 862",
+      "location": [-22.936308, -43.244794]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 816-824",
+      "location": [-22.935664, -43.244048]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 746",
+      "location": [-22.933790, -43.242128]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 685",
+      "location": [-22.932338, -43.240616]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 599",
+      "location": [-22.931125, -43.238349]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 515-519",
+      "location": [-22.928393, -43.236424]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 451",
+      "location": [-22.927045, -43.235593]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 377",
+      "location": [-22.924967, -43.233656]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 345-367",
+      "location": [-22.924421, -43.232900]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 273",
+      "location": [-22.923576, -43.229641]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 186",
+      "location": [-22.924302, -43.227782]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 138",
+      "location": [-22.924932, -43.226235]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 86",
+      "location": [-22.924211, -43.223814]
+    },
+    {
+      "name": "Rua Conde de Bonfim, 28",
+      "location": [-22.922707, -43.222145]
+    },
+    {
+      "name": "Rua Haddock Lobo, 416",
+      "location": [-22.921455, -43.219935]
+    },
+    {
+      "name": "Rua Haddock Lobo, 350",
+      "location": [-22.920843, -43.217648]
+    },
+    {
+      "name": "Rua do Bispo próximo ao 326",
+      "location": [-22.920342, -43.215262]
+    },
+    {
+      "name": "Rua do Bispo próximo ao 212-216",
+      "location": [-22.922698, -43.213987]
+    },
+    {
+      "name": "Rua do Bispo próximo ao 80-82",
+      "location": [-22.924777, -43.211746]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1553-1571",
+      "location": [-22.924985, -43.204809]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1344",
+      "location": [-22.925099, -43.202974]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1142",
+      "location": [-22.925286, -43.201201]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 992",
+      "location": [-22.925125, -43.199643]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 734",
+      "location": [-22.923405, -43.197803]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 574",
+      "location": [-22.922290, -43.197274]
+    },
+    {
+      "name": "Rua Doutor Agra próximo ao 90",
+      "location": [-22.920478, -43.195892]
+    },
+    {
+      "name": "Rua Gilda de Abreu próximo ao 313-363",
+      "location": [-22.919801, -43.194516]
+    },
+    {
+      "name": "Rua Eleone de Almeida próximo ao 30",
+      "location": [-22.917430, -43.194055]
+    },
+    {
+      "name": "Rua dos Coqueiros próximo ao 867-941",
+      "location": [-22.916489, -43.194460]
+    },
+    {
+      "name": "Rua Pinheiro Machado próximo ao 86-126",
+      "location": [-22.936423, -43.183950]
+    },
+    {
+      "name": "Praça Chaim Weizmann próximo ao 192-200",
+      "location": [-22.940573, -43.182819]
+    },
+    {
+      "name": "Rua Muniz Barreto próximo ao 51-207",
+      "location": [-22.943615, -43.183699]
+    },
+    {
+      "name": "Rua Muniz Barreto próximo ao 426",
+      "location": [-22.945359, -43.184116]
+    },
+    {
+      "name": "Condomínio do Edifício Ranih próximo ao N/D",
+      "location": [-22.946055, -43.183038]
+    },
+    {
+      "name": "BRS 1,2 - Praia de Botafogo próximo ao 370",
+      "location": [-22.947337, -43.182579]
+    },
+    {
+      "name": "Rua da Passagem próximo ao 71b",
+      "location": [-22.952663, -43.182072]
+    },
+    {
+      "name": "Rua da Passagem próximo ao 107",
+      "location": [-22.953672, -43.181551]
+    },
+    {
+      "name": "Rua da Passagem próximo ao 149",
+      "location": [-22.955006, -43.180855]
+    },
+    {
+      "name": "Rua General Góis Monteiro próximo ao 125",
+      "location": [-22.955721, -43.178511]
+    },
+    {
+      "name": "BRS 1 - Rua Barata Ribeiro próximo ao 62",
+      "location": [-22.962939, -43.177127]
+    },
+    {
+      "name": "BRS 1,2,3 - Rua Barata Ribeiro próximo ao 96",
+      "location": [-22.963902, -43.178608]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 294-302",
+      "location": [-22.966935, -43.183241]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 419-425",
+      "location": [-22.968783, -43.186096]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 503-507",
+      "location": [-22.970051, -43.187990]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 628",
+      "location": [-22.972505, -43.190535]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 746",
+      "location": [-22.975472, -43.192242]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 811-819",
+      "location": [-22.976995, -43.192755]
+    },
+    {
+      "name": "BRS 2 - Rua Raul Pompéia próximo ao 180-190",
+      "location": [-22.982705, -43.192160]
+    },
+    {
+      "name": "BRS 2 - Avenida Rainha Elisabeth próximo ao 234",
+      "location": [-22.985244, -43.192016]
+    },
+    {
+      "name": "BRS 2 - Rua Prudente de Morais próximo ao 68-170",
+      "location": [-22.985645, -43.198205]
+    },
+    {
+      "name": "BRS 2 - Rua Prudente de Morais próximo ao 534-552",
+      "location": [-22.985458, -43.201864]
+    },
+    {
+      "name": "BRS 2 - Rua Prudente de Morais próximo ao 1244-1256",
+      "location": [-22.985080, -43.208750]
+    },
+    {
+      "name": "BRS 2 - Rua Prudente de Morais próximo ao 1700",
+      "location": [-22.984834, -43.212974]
+    },
+    {
+      "name": "BRS 1,3 - Avenida General San Martin próximo ao 156",
+      "location": [-22.984739, -43.217474]
+    },
+    {
+      "name": "PONTO FINAL, Avenida Afrânio de Melo Franco próximo ao 302-330",
+      "location": [-22.979685, -43.218249]
+    }
+  ],
+
+  "4262": [
+    {
+      "name": "PONTO FINAL, Avenida Afrânio de Melo Franco próximo ao 302-330",
+      "location": [-22.979685, -43.218249]
+    },
+    {
+      "name": "Avenida Borges de Medeiros próximo ao 701",
+      "location": [-22.980168, -43.215877]
+    },
+    {
+      "name": "BRS 2 - Rua Visconde de Pirajá próximo ao 504",
+      "location": [-22.983990, -43.210297]
+    },
+    {
+      "name": "BRS 2 - Rua Visconde de Pirajá próximo ao 310-318",
+      "location": [-22.984322, -43.204148]
+    },
+    {
+      "name": "BRS 1,3 - Rua Visconde de Pirajá próximo ao 228",
+      "location": [-22.984442, -43.201589]
+    },
+    {
+      "name": "BRS 2 - Rua Visconde de Pirajá próximo ao 168-174",
+      "location": [-22.984565, -43.199765]
+    },
+    {
+      "name": "BRS 2 - Rua Gomes Carneiro próximo ao 130-134",
+      "location": [-22.984316, -43.194576]
+    },
+    {
+      "name": "BRS 1,3 - Rua Francisco Sá próximo ao 96-100",
+      "location": [-22.983649, -43.193451]
+    },
+    {
+      "name": "BRS 2 - Rua Francisco Sá próximo ao 50-80",
+      "location": [-22.983392, -43.192475]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 1144-1146",
+      "location": [-22.980405, -43.191005]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 891",
+      "location": [-22.975366, -43.189678]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 637-643",
+      "location": [-22.971125, -43.186765]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 529-543",
+      "location": [-22.968705, -43.183960]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 386-406",
+      "location": [-22.967217, -43.180987]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 252-B",
+      "location": [-22.965921, -43.178075]
+    },
+    {
+      "name": "BRS 2 - Avenida Princesa Isabel próximo ao 386",
+      "location": [-22.962021, -43.174912]
+    },
+    {
+      "name": "BRS 2 - Avenida Venceslau Braz próximo ao 119",
+      "location": [-22.956926, -43.177393]
+    },
+    {
+      "name": "Avenida Venceslau Braz próximo ao 101-149",
+      "location": [-22.952724, -43.176025]
+    },
+    {
+      "name": "BRS 2 - Praia de Botafogo próximo ao 2957-3201",
+      "location": [-22.947125, -43.182267]
+    },
+    {
+      "name": "Praça Chaim Weizmann próximo ao 209-229",
+      "location": [-22.941322, -43.182350]
+    },
+    {
+      "name": "Rua Pinheiro Machado próximo ao 13-11",
+      "location": [-22.933450, -43.184472]
+    },
+    {
+      "name": "Rua Eleone de Almeida próximo ao 30",
+      "location": [-22.917421, -43.194048]
+    },
+    {
+      "name": "Rua dos Coqueiros próximo ao 867-941",
+      "location": [-22.916484, -43.194474]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 574",
+      "location": [-22.922294, -43.197345]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 814-820",
+      "location": [-22.924128, -43.198464]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1142",
+      "location": [-22.925185, -43.201183]
+    },
+    {
+      "name": "Rua Itapiru próximo ao 1344",
+      "location": [-22.924979, -43.203020]
+    },
+    {
+      "name": "Rua Campos da Paz próximo ao 209",
+      "location": [-22.923909, -43.204530]
+    },
+    {
+      "name": "Rua Campos da Paz próximo ao 131",
+      "location": [-22.923657, -43.206431]
+    },
+    {
+      "name": "Rua Campos da Paz próximo ao 63-69",
+      "location": [-22.923450, -43.207894]
+    },
+    {
+      "name": "Rua Aristídes Lôbo próximo ao 160-170",
+      "location": [-22.921760, -43.208856]
+    },
+    {
+      "name": "Rua Aristídes Lôbo próximo ao 104",
+      "location": [-22.919932, -43.208610]
+    },
+    {
+      "name": "Rua Aristídes Lôbo próximo ao 38-50",
+      "location": [-22.917884, -43.209230]
+    },
+    {
+      "name": "BRS 1B,2B,5,6 - Rua Hadock Lobo próximo ao 20-24",
+      "location": [-22.915416, -43.207845]
+    },
+    {
+      "name": "BRS 1,2,4 - Rua Estácio de Sá próximo ao 82-274",
+      "location": [-22.914331, -43.205354]
+    },
+    {
+      "name": "Rua Ulysses Guimarães próximo ao 116-234",
+      "location": [-22.913022, -43.207194]
+    },
+    {
+      "name": "BRS 2 - Rua João Paulo I próximo ao 27-329",
+      "location": [-22.915496, -43.209496]
+    },
+    {
+      "name": "BRS 2 - Rua João Paulo I próximo ao 1746",
+      "location": [-22.916098, -43.212034]
+    },
+    {
+      "name": "BRS 2 - Rua Doutor Satamini próximo ao 239-245",
+      "location": [-22.917043, -43.214403]
+    },
+    {
+      "name": "BRS 2 - Rua Doutor Satamini próximo ao 153",
+      "location": [-22.918493, -43.218081]
+    },
+    {
+      "name": "BRS 2,5,6,I - Rua Doutor Satamini próximo ao 89",
+      "location": [-22.919407, -43.220138]
+    },
+    {
+      "name": "BRS 2 - Avenida Heitor Beltrão próximo ao 58-62",
+      "location": [-22.920791, -43.224251]
+    },
+    {
+      "name": "BRS 2 - Avenida Heitor Beltrão próximo ao 80-100",
+      "location": [-22.921654, -43.228500]
+    },
+    {
+      "name": "BRS 2,7 - Rua Conde de Bonfim próximo ao 310",
+      "location": [-22.923425, -43.231835]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 452",
+      "location": [-22.925965, -43.235126]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 494",
+      "location": [-22.927578, -43.236163]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 522",
+      "location": [-22.928406, -43.236655]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 638",
+      "location": [-22.931444, -43.239119]
+    },
+    {
+      "name": "Rua Uruguai próximo ao 413",
+      "location": [-22.932258, -43.240850]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 758",
+      "location": [-22.933911, -43.242398]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 796",
+      "location": [-22.934950, -43.243439]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 832",
+      "location": [-22.935853, -43.244451]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 862",
+      "location": [-22.936482, -43.245141]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 944",
+      "location": [-22.938305, -43.247050]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 984",
+      "location": [-22.939031, -43.247867]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1062",
+      "location": [-22.940275, -43.249674]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1086",
+      "location": [-22.940746, -43.250544]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1116",
+      "location": [-22.941077, -43.251687]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1168",
+      "location": [-22.941965, -43.253029]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1252-1256",
+      "location": [-22.943915, -43.254195]
+    },
+    {
+      "name": "Rua Conde de Bonfim próximo ao 1326-1328",
+      "location": [-22.946031, -43.255350]
+    },
+    {
+      "name": "PONTO FINAL, Terminal da Usina próximo ao 30",
+      "location": [-22.946288, -43.256893]
+    }
+  ],
+
+  "5391": [
+    {
+      "name": "PONTO FINAL, Praça Almirante Júlio de Noronha próximo ao 40",
+      "location":  [-22.962321, -43.165336]
+    },
+    {
+      "name": "Avenida Atlântica próximo ao 458",
+      "location": [-22.962660, -43.167887]
+    },
+    {
+      "name": "Avenida Atlântica próximo ao 586-680",
+      "location": [-22.963306, -43.169520]
+    },
+    {
+      "name": "Avenida Atlântica próximo ao 910",
+      "location": [-22.964398, -43.172198]
+    },
+    {
+      "name": "Rua Ministro Viveiros de Castro próximo ao 90",
+      "location": [-22.964200, -43.177192]
+    },
+    {
+      "name": "Rua Ministro Viveiros de Castro próximo ao 122",
+      "location": [-22.964627, -43.178151]
+    },
+    {
+      "name": "Rua Rodolfo Dantas próximo ao 428-500",
+      "location": [-22.964950, -43.179557]
+    },
+    {
+      "name": "BRS 2 - Condomínio do Edifício San James próximo ao N/D",
+      "location": [-22.965177, -43.180562]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 294-302",
+      "location": [-22.966939, -43.183284]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 419-425",
+      "location": [-22.968777, -43.186100]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 503-507",
+      "location": [-22.970042, -43.188033]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 628",
+      "location": [-22.972505, -43.190545]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 746",
+      "location": [-22.975459, -43.192250]
+    },
+    {
+      "name": "BRS 2 - Rua Barata Ribeiro próximo ao 811-819",
+      "location": [-22.977005, -43.192765]
+    },
+    {
+      "name": "BRS 2 - Rua Raul Pompéia próximo ao 180-190",
+      "location": [-22.982720, -43.192137]
+    },
+    {
+      "name": "BRS 2 - Avenida Rainha Elisabeth próximo ao 234",
+      "location": [-22.985217, -43.192022]
+    },
+    {
+      "name": "BRS 2 - Rua Prudente de Morais próximo ao 68-170",
+      "location": [-22.985645, -43.198205]
+    },
+    {
+      "name": "BRS 2 - Rua Prudente de Morais próximo ao 534-552",
+      "location": [-22.985451, -43.201864]
+    },
+    {
+      "name": "BRS 2 - Rua Prudente de Morais próximo ao 1244-1256",
+      "location": [-22.985083, -43.208761]
+    },
+    {
+      "name": "BRS 2 - Rua Prudente de Morais próximo ao 1700",
+      "location": [-22.984848, -43.212965]
+    },
+    {
+      "name": "BRS 1,3 - Avenida General San Martin próximo ao 156",
+      "location": [-22.984747, -43.217491]
+    },
+    {
+      "name": "Avenida Bartolomeu Mitre próximo ao 335-339",
+      "location": [-22.983505, -43.223288]
+    },
+    {
+      "name": "Avenida Bartolomeu Mitre próximo ao 455-459",
+      "location": [-22.982651, -43.223511]
+    },
+    {
+      "name": "Avenida Bartolomeu Mitre próximo ao 630",
+      "location": [-22.980694, -43.223699]
+    },
+    {
+      "name": "Avenida Bartolomeu Mitre próximo ao 990",
+      "location": [-22.978751, -43.224278]
+    },
+    {
+      "name": "Avenida Bartolomeu Mitre próximo ao 1111-1267",
+      "location": [-22.977052, -43.224914]
+    },
+    {
+      "name": "Avenida Bartolomeu Mitre próximo ao 1372-1458",
+      "location": [-22.975137, -43.225724]
+    },
+    {
+      "name": "Metro Na Superficie - Estação Marquês De São Vicente",
+      "location": [-22.976624, -43.229683]
+    },
+    {
+      "name": "Rua Marquês de São Vicente próximo ao 230",
+      "location": [-22.978083, -43.233442]
+    },
+    {
+      "name": "Rua Marquês de São Vicente próximo ao 300",
+      "location": [-22.979445, -43.234625]
+    },
+    {
+      "name": "Rua Marquês de São Vicente próximo ao 380",
+      "location": [-22.981532, -43.236746]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 20",
+      "location": [-22.982351, -43.241303]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 36-40",
+      "location": [-22.983455, -43.241977]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 74",
+      "location": [-22.984589, -43.243308]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 102-138",
+      "location": [-22.984529, -43.244512]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 169",
+      "location": [-22.985366, -43.244747]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 194-200",
+      "location": [-22.985840, -43.243363]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 224-230",
+      "location": [-22.986393, -43.245439]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 307A",
+      "location": [-22.987215, -43.246495]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 367",
+      "location": [-22.987871, -43.245073]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 376",
+      "location": [-22.987654, -43.245883]
+    },
+    {
+      "name": "Rua Dionéia próximo ao 4",
+      "location": [-22.987925, -43.247946]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 447-451",
+      "location": [-22.988654, -43.249095]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 414-424",
+      "location": [-22.989031, -43.250815]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 558",
+      "location": [-22.990604, -43.252318]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 572",
+      "location": [-22.992031, -43.253912]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 666",
+      "location": [-22.994690, -43.257647]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 1008-1010",
+      "location": [-22.997519, -43.264626]
+    },
+    {
+      "name": "AutoEstrada Lagoa-Barra próximo ao 56",
+      "location": [-22.999010, -43.270647]
+    },
+    {
+      "name": "Auto Estrada Lagoa-Barra próximo ao N/D",
+      "location": [-22.999254, -43.269084]
+    },
+    {
+      "name": "AutoEstrada Lagoa-Barra próximo ao 841",
+      "location": [-22.998161, -43.265695]
+    },
+    {
+      "name": "Rua Engenheiro Amandino de Carvalho próximo ao 216-240",
+      "location": [-22.997566, -43.260469]
+    },
+    {
+      "name": "PONTO FINAL, Rua Engenheiro Amandino de Carvalho próximo ao 241-385",
+      "location": [-22.998517, -43.259558]
+    }
+  ],
+
+  "5392": [
+    {
+      "name": "PONTO FINAL, Rua Engenheiro Amandino de Carvalho próximo ao 241-385",
+      "location": [-22.998517, -43.259558]
+    },
+    {
+      "name": "Avenida Niemeyer próximo ao 13",
+      "location": [-22.996274, -43.255152]
+    },
+    {
+      "name": "Avenida Niemeyer próximo ao 770",
+      "location": [-22.993840, -43.253043]
+    },
+    {
+      "name": "Avenida Niemeyer próximo ao 750",
+      "location": [-22.993094, -43.253261]
+    },
+    {
+      "name": "Avenida Niemeyer próximo ao 580",
+      "location": [-22.992030, -43.253661]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 558",
+      "location": [-22.990631, -43.252280]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 450-454",
+      "location": [-22.989558, -43.252180]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 438-448",
+      "location": [-22.989380, -43.251498]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 414-424",
+      "location": [-22.989061, -43.250736]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 447-451",
+      "location": [-22.988706, -43.249050]
+    },
+    {
+      "name": "Rua Dionéia próximo ao 4",
+      "location": [-22.987973, -43.247907]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 318-366",
+      "location": [-22.988124, -43.246827]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 376",
+      "location": [-22.987717, -43.245897]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 367",
+      "location": [-22.987894, -43.245017]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 307A",
+      "location": [-22.987168, -43.246439]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 303",
+      "location": [-22.986464, -43.247295]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 224-230",
+      "location": [-22.986436, -43.245411]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 193-199",
+      "location": [-22.985907, -43.243401]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 169",
+      "location": [-22.985350, -43.244673]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 102-138",
+      "location": [-22.984595, -43.244488]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 74",
+      "location": [-22.984591, -43.243244]
+    },
+    {
+      "name": "Estrada da Gávea próximo ao 44-50",
+      "location": [-22.983514, -43.242083]
+    },
+    {
+      "name": "Rua Alexandre Stockler próximo ao N/D",
+      "location": [-22.984338, -43.240797]
+    },
+    {
+      "name": "Rua Marquês de São Vicente próximo ao 444",
+      "location": [-22.982426, -43.238185]
+    },
+    {
+      "name": "Rua Marquês de São Vicente próximo ao 380-382",
+      "location": [-22.981483, -43.236442]
+    },
+    {
+      "name": "Rua Marquês de São Vicente próximo ao 300",
+      "location": [-22.979293, -43.234533]
+    },
+    {
+      "name": "Rua Marquês de São Vicente próximo ao 208-216",
+      "location": [-22.977726, -43.232881]
+    },
+    {
+      "name": "Rua Marquês de São Vicente próximo ao 140",
+      "location": [-22.977249, -43.230683]
+    },
+    {
+      "name": "Rua Vice-Governador Rúbens Berardo próximo ao 175",
+      "location": [-22.978457, -43.229762]
+    },
+    {
+      "name": "Avenida Padre Leonel Franca próximo ao 240",
+      "location": [-22.979329, -43.229263]
+    },
+    {
+      "name": "Avenida Visconde de Albuquerque próximo ao 1165",
+      "location": [-22.979521, -43.226690]
+    },
+    {
+      "name": "Avenida Visconde de Albuquerque próximo ao 999",
+      "location": [-22.981130, -43.226797]
+    },
+    {
+      "name": "Avenida Visconde de Albuquerque próximo ao 633-641",
+      "location": [-22.983376, -43.228328]
+    },
+    {
+      "name": "Avenida Visconde de Albuquerque próximo ao 517",
+      "location": [-22.984328, -43.229197]
+    },
+    {
+      "name": "BRS 2 - Avenida Ataulfo de Paiva próximo ao 1060-1100",
+      "location": [-22.985228, -43.226086]
+    },
+    {
+      "name": "Avenida Ataulfo de Paiva próximo ao 752-760",
+      "location": [-22.984467, -43.223408]
+    },
+    {
+      "name": "BRS 2 - Avenida Ataulfo de Paiva próximo ao 500",
+      "location": [-22.984020, -43.220997]
+    },
+    {
+      "name": "BRS 1,3 - Avenida Afrânio de Melo Franco próximo ao 85",
+      "location": [-22.983775, -43.218245]
+    },
+    {
+      "name": "BRS 2 - Jardim de Alah",
+      "location": [-22.983713, -43.216263]
+    },
+    {
+      "name": "BRS 2 - Rua Visconde de Pirajá próximo ao 504",
+      "location": [-22.983973, -43.210260]
+    },
+    {
+      "name": "BRS 2 - Rua Visconde de Pirajá próximo ao 310-318",
+      "location": [-22.984325, -43.204076]
+    },
+    {
+      "name": "BRS 2 - Rua Visconde de Pirajá próximo ao 168-174",
+      "location": [-22.984585, -43.199765]
+    },
+    {
+      "name": "BRS 2 - Rua Gomes Carneiro próximo ao 130-134",
+      "location": [-22.984308, -43.194580]
+    },
+    {
+      "name": "BRS 2 - Rua Francisco Sá próximo ao 50-80",
+      "location": [-22.983375, -43.192427]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 1144-1146",
+      "location": [-22.980374, -43.191072]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 891",
+      "location": [-22.975363, -43.189683]
+    },
+    {
+      "name": "BRS 2 - Condomínio do Edificio Bandeirantes",
+      "location": [-22.973023, -43.188320]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 637-643",
+      "location": [-22.971092, -43.186821]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 529-543",
+      "location": [-22.968704, -43.183953]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 386-406",
+      "location": [-22.967213, -43.180967]
+    },
+    {
+      "name": "BRS 2 - Avenida Nossa Senhora de Copacabana próximo ao 252-B",
+      "location": [-22.965894, -43.178030]
+    },
+    {
+      "name": "Avenida Princesa Isabel próximo ao 190",
+      "location": [-22.965265, -43.173430]
+    },
+    {
+      "name": "Avenida Atlântica próximo ao 12-08",
+      "location": [-22.963801, -43.169988]
+    },
+    {
+      "name": "Avenida Atlântica próximo ao 828",
+      "location": [-22.963242, -43.168520]
+    },
+    {
+      "name": "PONTO FINAL, Praça Almirante Júlio de Noronha próximo ao 40",
+      "location":  [-22.962321, -43.165336]
+    }
+  ],
+
+  "1171": [
+    {
+      "name": "PONTO FINAL, Terminal Rodoviario Procópio Ferreira",
+      "location": [-22.905037, -43.192466]
+    },
+    {
+      "name": "Praça Cristiano Otoni próximo ao 279",
+      "location": [-22.903432, -43.190651]
+    },
+    {
+      "name": "BRS 1,2,3 - Praça Duque de Caxias",
+      "location": [-22.903953, -43.188310]
+    },
+    {
+      "name": "Rua das Laranjeiras 218",
+      "location": [-22.933703, -43.186318]
+    },
+    {
+      "name": "Rua das Laranjeiras 343",
+      "location": [-22.935587, -43.189429]
+    },
+    {
+      "name": "Rua das Laranjeiras próximo ao 404",
+      "location": [-22.937803, -43.190490]
+    },
+    {
+      "name": "Rua das Laranjeiras próximo ao 474",
+      "location": [-22.938517, -43.193147]
+    },
+    {
+      "name": "Rua das Laranjeiras 536",
+      "location": [-22.938221, -43.194951]
+    },
+    {
+      "name": "Rua Cosme Velho próximo ao 147",
+      "location": [-22.939093, -43.196083]
+    },
+    {
+      "name": "Rua Cosme Velho 433",
+      "location": [-22.940438, -43.197896]
+    },
+    {
+      "name": "PONTO FINAL, Terminal Cosme Velho",
+      "location": [-22.939964, -43.199883]
+    }
+  ],
+
+  "1172": [
+    {
+      "name": "PONTO FINAL, Terminal Cosme Velho",
+      "location": [-22.939964, -43.199883]
+    },
+    {
+      "name": "Rua Cosme Velho próximo ao 412-416",
+      "location": [-22.940523, -43.197967]
+    },
+    {
+      "name": "Rua Cosme Velho 155",
+      "location": [-22.939205, -43.196020]
+    },
+    {
+      "name": "Rua das Laranjeiras 571",
+      "location": [-22.938609, -43.194235]
+    },
+    {
+      "name": "Rua das Laranjeiras próximo ao 466-470",
+      "location": [-22.938545, -43.192488]
+    },
+    {
+      "name": "Rua das Laranjeiras 401",
+      "location": [-22.937219, -43.190234]
+    },
+    {
+      "name": "Rua das Laranjeiras 275",
+      "location": [-22.934750, -43.187849]
+    },
+    {
+      "name": "Rua Ipiranga próximo ao 13",
+      "location": [-22.933207, -43.183280]
+    },
+    {
+      "name": "Rua Benedito Hipólito próximo ao 66-126",
+      "location": [-22.907951, -43.195821]
+    },
+    {
+      "name": "Rua Moncorvo Filho próximo ao 38",
+      "location": [-22.908113, -43.191093]
+    },
+    {
+      "name": "PONTO FINAL, Terminal Rodoviario Procópio Ferreira",
+      "location": [-22.905037, -43.192466]
+    }
+  ]
+}
+
+

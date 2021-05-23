@@ -1,0 +1,22 @@
+.parallaxContainer {
+  background: url('../../images/bus-trip2.jpg') no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  height: 600px;
+ 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  header {
+    color: rgb(233, 6, 6);
+    font-weight: 700;
+    font-size: 3rem;
+
+    p {
+      text-shadow: 5px 5px 5px black;
+    }
+  }
+}
+
