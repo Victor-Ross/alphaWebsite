@@ -34,10 +34,6 @@ export function RouteMap() {
           style={{ width: '100%', height: '100%' }}
         >
           <TileLayer url="https://a.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-          {/* <Circle center={[-22.965723, -43.218020]} radius={200} /> */}
-          {/* <CircleMarker center={[-22.965723, -43.218020]} radius={20}>
-            <Popup>This is my first popup</Popup>
-          </CircleMarker> */}
           <Polyline positions={dirLatLng} color="red"/>
             { stops.map(stop => {
                 return (

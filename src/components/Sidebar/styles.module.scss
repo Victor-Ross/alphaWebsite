@@ -7,7 +7,7 @@ aside.sidebarContainer {
   align-items: center;
 
   main {
-    height: 80%;
+    height: 100%;
 
     display: flex;
     flex-direction: column;
@@ -47,6 +47,27 @@ aside.sidebarContainer {
       border-radius: 10px;
 
       font-size: 1.5rem;
+
+      transition: background 0.2s;
+
+      &:hover {
+        background: rgba(88, 116, 156, 0.61);
+      }
+    }
+
+    div.stops {
+      height: 40%;
+      width: 100%;
+
+      overflow-y: scroll;
+      background: #fff;
+
+      h4 {
+        margin: 20px 0 20px 10px;
+        width: 100%;
+        text-align: start;
+      }
+
     }
   }
 }

@@ -30,10 +30,12 @@
         span {
           display: inline-block;
           width: 50%;
+          vertical-align: top;
           
 
           h1 {
             font-family: Inter, sans-serif;
+            
             color: var(--red);
           }
           p {

@@ -1,4 +1,4 @@
-import React, { createContext, useState, ReactNode, useContext } from 'react';
+import React, { createContext, useState, ReactNode, useContext, ChangeEvent } from 'react';
 
 import routesData from '../data/alpha-routes.json';
 import stopsData from '../data/bus-stops.json'
@@ -34,6 +34,7 @@ type RouteContextData = {
   dirLatLng: [number, number][];
   stops: {name: string, location: [number, number]}[];
   handleSetCourse: (course: courseProps)=> void;
+  selectedStop: (event: ChangeEvent<HTMLButtonElement>) => void;
 }
 
 type RouteContextProviderProps = {
@@ -136,9 +137,13 @@ export function RouteContextProvider({ children }: RouteContextProviderProps) {
     }
   }
 
+  function selectedStop(event: ChangeEvent<HTMLButtonElement>) {
+    console.log(event.target);
+  }
+
   
   return (
-    <RouteContext.Provider value={{ line, direction, dirLatLng, stops, handleSetCourse }}>
+    <RouteContext.Provider value={{ line, direction, dirLatLng, stops, handleSetCourse, selectedStop }}>
       { children }
     </RouteContext.Provider>
   );

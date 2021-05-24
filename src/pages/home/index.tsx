@@ -33,7 +33,8 @@ export default function Home() {
               <h1>Nossos objetivos</h1>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur similique nesciunt ratione.
               Rem dolor assumenda voluptatem inventore? Perspiciatis sapiente odit ducimus nostrum deleniti, 
-              impedit, incidunt, optio amet</p>
+              impedit, incidunt, optio amet  inventore? Perspiciatis sapiente odit ducimus
+              ventore? Perspiciatis sapiente odit ducimus</p>
               </span>
               <iframe 
                 width="100%"

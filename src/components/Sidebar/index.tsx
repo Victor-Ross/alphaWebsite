@@ -11,8 +11,9 @@ export default function Sidebar() {
   const [directions, setDirections] = useState<string[]>(['', '']);
 
   const selectRef = useRef<HTMLSelectElement>(null);
+  const refh6 = useRef<HTMLHeadingElement>(null);
 
-  const { handleSetCourse } = useRoute();
+  const { handleSetCourse, stops } = useRoute();
   
   function selectedLine(event: ChangeEvent<HTMLSelectElement>) {
     if(!selectRef.current){
@@ -65,6 +66,12 @@ export default function Sidebar() {
   }, [linha]);
 
   useEffect(() => {
+    if(!refh6.current){
+      setDir(directions[0]);
+      return;
+    }
+    refh6.current.innerHTML = "";
+
     setDir(directions[0]);
   }, [directions]);
 
@@ -74,8 +81,8 @@ export default function Sidebar() {
       <main>
         <div className={styles.selectLine}>
           <h2>Selecione a linha</h2>
-          <select onChange={selectedLine} name="linha" id="linha">
-            <option disabled selected>Escolha uma linha</option>
+          <select onChange={selectedLine} defaultValue="000" name="linha" id="linha">
+            <option disabled value="000">Escolha uma linha</option>
             <option value="112">112</option>
             <option value="133">133</option>
             <option value="201">201</option>
@@ -94,12 +101,13 @@ export default function Sidebar() {
           </select>
         </div>
         <button onClick={() => handleSetCourse({lineC: linha, directionC: dir})}>Verificar Rota</button>
-        <textarea 
-          name="" 
-          rows={15} 
-          id=""
-        >
-        </textarea>
+        <div className={styles.stops}>
+          { stops?.map(stop => {
+            return (
+              <h4 ref={refh6} key={stop.name}>{ stop.name }</h4>
+            );
+          }) }
+        </div>
       </main>
     </aside>
   );
