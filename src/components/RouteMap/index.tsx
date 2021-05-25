@@ -14,7 +14,7 @@ export function RouteMap() {
   const { dirLatLng, stops } = useRoute();
 
   useEffect(() => {
-    console.log("Mudou")
+
   }, [dirLatLng]);
 
   const mapIcon = Leaflet.icon({

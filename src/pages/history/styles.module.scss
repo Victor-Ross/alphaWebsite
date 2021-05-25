@@ -34,20 +34,9 @@
       justify-content: space-around;
 
       div.portrait {
-      height: 318px;
-      width: 70%;
-      
       display: flex;
       justify-content: space-evenly;
       }
-
-      // div.oldBusCarousel {
-      //   width: 100%;
-
-      //   display: flex;
-      //   justify-content: space-evenly;
-      //   align-items: center;
-      // }
 
       div.timeline {
 
@@ -59,19 +48,16 @@
 
         div {
           width: 100%;
-          height: 750px;
           margin-bottom: 100px;
           text-align: center;
           
           h2 {
             font-family: Pattaya, cursive;
             font-size: 3rem;
-            margin-bottom: -70px;
           }
           
           span {
             display: flex;
-            justify-content: space-around;
             align-items: center;
             border: 1px solid black;
             box-shadow: 0px 0px 5px black;
@@ -81,12 +67,10 @@
             margin-bottom: 50px;
 
             img {
-              width: 70%;
               max-height: 600px;
             }
 
             p {
-              width: 20%;
               line-height: 2rem;
             }
           }
@@ -111,5 +95,73 @@
         font-size: 1.2rem;
       }
     }
+  }
+}
+
+@media(min-width: 701px) {
+  div.portrait {
+
+    width: 70%;
+    height: 318px;
+  }
+
+  div.timeline {
+
+    div {
+      height: 750px;
+    }
+
+    h2 {
+      margin-bottom: -70px;
+    }
+
+    span {
+      justify-content: space-around;
+
+      img {
+        width: 70%;
+      }
+
+      p {
+        width: 20%;
+      }
+    }
+  }
+}
+@media(max-width: 700px) {
+  div.portrait {
+    flex-direction: column;
+    align-items: center;
+
+    width: 100%;
+
+    img {
+      width: 100%;
+    }
+
+  }
+
+  div.timeline {
+
+    h2 {
+      margin-bottom: 0;
+    }
+
+      span {
+        flex-direction: column;
+        justify-content: start;
+
+        img {
+          width: 99%;
+        }
+
+        p {
+          width: 100%;
+        }
+      }
+  }
+
+  div.tokens {
+    flex-direction: column;
   }
 }

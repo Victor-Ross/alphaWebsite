@@ -71,3 +71,16 @@ aside.sidebarContainer {
     }
   }
 }
+
+@media(max-width: 700px) {
+  aside.sidebarContainer {
+
+    main {
+
+      button {
+        font-size: 1rem;
+        font-weight: 700;
+      }
+    }
+  }
+}

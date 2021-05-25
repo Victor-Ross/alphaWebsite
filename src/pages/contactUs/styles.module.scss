@@ -16,7 +16,6 @@
 
     margin: 100px 0 100px 0;
     padding: 20px;
-    width: 50%;
 
     h1 {
       font: bold 2rem Inter, sans-serif;
@@ -65,5 +64,26 @@
       }
     }
 
+  }
+}
+
+@media(min-width: 701px) {
+  .pageContainer {
+
+    form {
+      width: 50%;
+    }
+  }
+}
+@media(max-width: 700px) {
+  .pageContainer {
+
+    form {
+      width: 90%;
+
+      h1 {
+        text-align: center;
+      }
+    }
   }
 }
