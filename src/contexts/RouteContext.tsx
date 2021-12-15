@@ -30,6 +30,7 @@ type courseProps = {
 
 type RouteContextData = {
   line: string;
+  setLine: (line: string) => void;
   direction: string;
   dirLatLng: [number, number][];
   stops: {name: string, location: [number, number]}[];
@@ -45,7 +46,7 @@ type RouteContextProviderProps = {
 const RouteContext = createContext({} as RouteContextData);
 
 export function RouteContextProvider({ children }: RouteContextProviderProps) {
-  const [line, setLine] = useState<string>("");
+  const [line, setLine] = useState<string>("0");
   const [direction, setDirection] = useState("");
   const [stops, setStops] = useState<{name: string, location: [number, number]}[]>([])
 
@@ -143,7 +144,7 @@ export function RouteContextProvider({ children }: RouteContextProviderProps) {
 
   
   return (
-    <RouteContext.Provider value={{ line, direction, dirLatLng, stops, handleSetCourse, selectedStop }}>
+    <RouteContext.Provider value={{ line, setLine, direction, dirLatLng, stops, handleSetCourse, selectedStop }}>
       { children }
     </RouteContext.Provider>
   );
