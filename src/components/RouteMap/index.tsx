@@ -52,7 +52,7 @@ export function RouteMap() {
     iconUrl: busIcon,
     iconSize: [35, 35],
     iconAnchor: [20, 10],
-    popupAnchor: [0, -50]
+    popupAnchor: [1, -49]
   });
 
   
