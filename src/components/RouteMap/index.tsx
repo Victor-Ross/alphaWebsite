@@ -25,13 +25,14 @@ export function RouteMap() {
 
   useEffect(() => {
     const firstCall = async () => {
-      const response = await api.get(`https://jeap.rio.rj.gov.br/dadosAbertosAPI/v2/transporte/veiculos/onibus/${line}`);
+      const response = await api.get(`https://salty-plateau-74394.herokuapp.com/https://jeap.rio.rj.gov.br/dadosAbertosAPI/v2/transporte/veiculos/onibus/${line}`);
       setDirectionsAux(response.data.data);
       setCarsPositions(response.data.data);
     }
     firstCall();
     const intervalData = setInterval(async () => {
-      const response = await api.get(`https://jeap.rio.rj.gov.br/dadosAbertosAPI/v2/transporte/veiculos/onibus/${line}`);
+      const response = await api.get(`https://salty-plateau-74394.herokuapp.com/https://jeap.rio.rj.gov.br/dadosAbertosAPI/v2/transporte/veiculos/onibus/${line}`);
+      console.log(response);
       setCarsPositions(response.data.data);
       setDirectionsAux(response.data.data);
     }, 10000);
